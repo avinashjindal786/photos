@@ -1,1 +1,4 @@
-# How to Use Stacked Architecture to Build a Flutter Todo App
+# How to Use Stacked Architecture to Build a Flutter Counter App
+
+
+![Screenshot]()
